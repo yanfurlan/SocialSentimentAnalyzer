@@ -76,6 +76,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Autor**: [Seu Nome](https://github.com/yanfurlan)  
+**Autor**: [Yan](https://github.com/yanfurlan)  
 **Contato**: yangabrielfurlan@gmail.com
 
